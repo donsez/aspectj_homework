@@ -1,7 +1,9 @@
 AspectJ Examples
 ================
 
-A simple example of AspectJ weaving
+A simple homework on AspectJ weaving
+
+Homework subject (in french) : https://air.imag.fr/index.php/AspectJ
 
 Build
 -----
