@@ -1,4 +1,4 @@
-AspectJ Examples
+AspectJ Homework
 ================
 
 A simple homework on AspectJ weaving
